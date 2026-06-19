@@ -1,1 +1,1 @@
-HEllo CG
+generate code
